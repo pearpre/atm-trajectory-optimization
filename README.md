@@ -119,7 +119,7 @@ atm-trajectory-optimization/
 
 ## Contexto
 
-Proyecto desarrollado en la asignatura de **Predicción, Sincronización y Optimización de Trayectorias** (especialidad ATM) del Máster en Ingeniería Aeronáutica, ETSIAE — Universidad Politécnica de Madrid. Curso 2025/2026.
+Proyecto desarrollado en la asignatura de **Predicción, Sincronización y Optimización de Trayectorias** del Máster en Sistemas del Transporte Aéreo, ETSIAE — Universidad Politécnica de Madrid. 
 
 Los datos operacionales proceden de EUROCONTROL **NEST** y la herramienta **Insignia** de ENAIRE.
 
